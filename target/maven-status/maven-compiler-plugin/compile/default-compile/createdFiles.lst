@@ -1,0 +1,7 @@
+model\RekamMedis.class
+controller\KlinikManager.class
+model\Pasien.class
+model\StatusLayanan.class
+model\DokterGigi.class
+model\Orang.class
+view\KlinikGigiManajemen3.class
