@@ -249,6 +249,23 @@ Pada menu 2 ini menampilkan seluruh Data Pasien yang telah terdaftar sebelumnya 
 ---
 
 ### 3. Ubah Data Pasien
+<img width="581" height="85" alt="image" src="https://github.com/user-attachments/assets/5f1e5e70-8852-4580-b3ef-02c22550ef90" /><br>
+Pada menu 3 yaitu berfungsi untuk mengubah data pasien seperti diagnosa maupun catatan tindakan.<br>
+<img width="470" height="98" alt="image" src="https://github.com/user-attachments/assets/138d3eb5-c39c-404e-bcff-099ad9442b0a" /><br>
+dan ini data yang telah diubah menggunakan menu 3.
 
+---
+
+### 4. Hapus Data Pasien
+<img width="321" height="45" alt="image" src="https://github.com/user-attachments/assets/67cbe06d-34de-4440-82aa-a9a60fcdd2ce" /><br>
+Menu 4 yaitu menghapus data pasien, digunakan saat salah input data atau pasien pindah klinik.<br>
+<img width="491" height="142" alt="image" src="https://github.com/user-attachments/assets/4ea9ffff-6fd0-437c-90e8-6e0ae730119a" /><br>
+Dan ini setelah data pasien 2 dihapus, yang akan muncul hanya `dummy data` saja.
+
+---
+
+### 5. Keluar
+<img width="485" height="99" alt="image" src="https://github.com/user-attachments/assets/7421070a-b7c1-4fc2-99e9-9cc5b0e38e07" /><br>
+Menu 5 sekaligus menu terakhir yaitu `keluar`, menu ini digunakan saat akan keluar dari program/mengakhiri program tersebut.
 
 ---
