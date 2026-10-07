@@ -1,4 +1,4 @@
-# Dokumentasi Sistem Manajemen Klinik Gigi
+# Sistem Manajemen Klinik Gigi
 Sistem Manajemen Klinik Gigi adalah aplikasi berbasis Java yang dirancang untuk mengelola data operasional klinik gigi secara efisien. 
 Program ini menerapkan arsitektur **Model-View-Controller (MVC)** untuk memisahkan logika bisnis, struktur data, dan antarmuka pengguna. 
 Fitur utama meliputi pencatatan data pasien, pengikatan pasien ke dokter, pembuat rekam medis, serta operasi **CRUD (Create, Read, Update, Delete)** data pasien.
