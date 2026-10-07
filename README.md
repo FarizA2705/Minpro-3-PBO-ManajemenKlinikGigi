@@ -220,13 +220,9 @@ Interface `StatusLayanan` digunakan untuk menyediakan bentuk abstraksi murni ber
 public interface StatusLayanan {
     void cetakKartuBerobat();
 }
-```
-```
 public class Pasien extends Orang implements StatusLayanan {
     private DokterGigi dokter;
     private RekamMedis rekamMedis;
-```
-```
 @Override
     public void cetakKartuBerobat() {
         System.out.println("--> KARTU BEROBAT AKTIF: Pasien " + nama + " (ID: " + id + ")");
@@ -234,7 +230,25 @@ public class Pasien extends Orang implements StatusLayanan {
 }
 ```
 
+## 7. Running Program
+### Menu Utama
+<img width="330" height="131" alt="image" src="https://github.com/user-attachments/assets/ec426e3c-8d07-4cb4-a0bb-81b90550a87b" />
 
+---
+
+### 1. Tambah Data Pasien Baru
+<img width="488" height="176" alt="image" src="https://github.com/user-attachments/assets/7d94061b-247e-4c8f-8d5e-ccbc7e1ff519" /><br>
+Pada menu 1 yaitu menambahkan data pasien baru, lalu KlinikManager yang mengatur dokter mana yang akan di datangi oleh Pasien.
+
+---
+
+### 2. Tampilkan Semua Pasien
+<img width="546" height="228" alt="image" src="https://github.com/user-attachments/assets/7c05b0f4-ebc8-4bf8-96bf-682bc74d1d96" /><br>
+Pada menu 2 ini menampilkan seluruh Data Pasien yang telah terdaftar sebelumnya mauapun dummy data pada program akan ditampilakn pada output.
+
+---
+
+### 3. Ubah Data Pasien
 
 
 ---
