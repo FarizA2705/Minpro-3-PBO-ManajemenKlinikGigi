@@ -211,7 +211,7 @@ public abstract class Orang {
         tambahPasien(pasienBaru);
     }
 ```
-## 6. Penerapan Interface (Nilai Tambah & Abstraksi Murni)
+## 6. Penerapan Interface
 
 Interface `StatusLayanan` digunakan untuk menyediakan bentuk abstraksi murni berupa kontrak *method* `cetakKartuBerobat()`. Interface ini diimplementasikan oleh kelas `Pasien` untuk merealisasikan pencetakan status kartu berobat aktif tanpa terikat langsung pada struktur hirarki utama kelas induk (`Orang`).
 
